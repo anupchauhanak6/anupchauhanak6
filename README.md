@@ -78,8 +78,6 @@ Hi there! I'm **Anup Chauhan**, a passionate **Full Stack Developer** from New D
 
 <br>
 
-## 📬 Get in Touch
-
 ## 📬 Get in Touch    
 
 - <p align="left"> <a href="https://www.linkedin.com/in/anup-chauhan-22b8132bb/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>   <a href="https://www.x.com/anup_chauhan_ak" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a>
@@ -92,13 +90,10 @@ Hi there! I'm **Anup Chauhan**, a passionate **Full Stack Developer** from New D
 
 ## 🌠 Quote I Live By
 
-<div align="center">
-  
-> "Success is not the key to happiness. Happiness is the key to success.  
-> If you love what you are doing, you will be successful."  
-> — **Albert Schweitzer**
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
-</div>
 
 <br>
 
