@@ -20,16 +20,16 @@
 
 <!-- Social Connect Badges with Portfolio Colors -->
 <p>
-  <a href="https://linkedin.com/in/anupchauhan">
+  <a href="https://www.linkedin.com/in/anup-chauhan-22b8132bb/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-A855F7?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/anupchauhan">
+  <a href="https://www.x.com/anup_chauhan_ak" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-Follow-EC4899?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="mailto:anupchauhanak6@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-3B82F6?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/anupchauhanak6">
+  <a href="https://github.com/anupchauhanak6" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-10B981?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
@@ -38,12 +38,47 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 </div>
- 
+
+<br>
+
+## 👨‍💻 About Me
+
+Hi there! I'm **Anup Chauhan**, a passionate **Full Stack Developer** from New Delhi, India 🇮🇳
+
+- 🎓 Currently pursuing **BCA** at Delhi University
+- 💻 Love building **amazing web experiences** with modern technologies
+- 🚀 Specializing in **React, Node.js, MongoDB, and JavaScript**
+- 🌱 Currently learning **Next.js, TypeScript, and Docker**
+- 👯 Looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **React, Node.js, Web Development**
+- ⚡ Fun fact: **I turn coffee into code!** ☕💻
+
+<br>
 
 
-## 📊 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anupchauhanak6&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anupchauhanak6&layout=compact&theme=radical)  
+## 📊 GitHub Stats
+
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anupchauhanak6&show_icons=true&theme=radical&bg_color=0d1117&title_color=a855f7&text_color=ffffff&icon_color=ec4899&border_color=a855f7&hide_border=false" alt="GitHub Stats"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupchauhanak6&layout=compact&theme=radical&bg_color=0d1117&title_color=a855f7&text_color=ffffff&border_color=ec4899&hide_border=false" alt="Top Languages"/>
+
+</div>
+
+<br>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anupchauhanak6&bg_color=0d1117&color=a855f7&line=ec4899&point=ffffff&area=true&hide_border=false&border_color=a855f7" width="100%" alt="Contribution Graph" />
+</div>
+
+<br>
+
+<br>
+
+## 📬 Get in Touch
 
 ## 📬 Get in Touch    
 
@@ -52,9 +87,40 @@
 </p>
 
 - 🌐 Portfolio: Coming Soon...
-    
-## 🌠 Quote I Live By  
-> "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful." — Albert Schweitzer  
 
-## 🌟 Fun Fact  
-I love exploring new technologies and turning ideas into reality. Let’s build something amazing together! ✨  
+<br>
+
+## 🌠 Quote I Live By
+
+<div align="center">
+  
+> "Success is not the key to happiness. Happiness is the key to success.  
+> If you love what you are doing, you will be successful."  
+> — **Albert Schweitzer**
+
+</div>
+
+<br>
+
+## 🌟 Fun Facts
+
+- ✨ I love exploring new technologies and turning ideas into reality
+- 🎯 Always up for a coding challenge
+- 🌱 Continuous learner and problem solver
+- 💡 Let's build something amazing together!
+
+<br>
+
+---
+
+<div align="center">
+
+### 💜 Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=14,17,19,21,24&section=footer" />
+
+**Made with 💖 by Anup Chauhan**
+
+![Profile Views](https://komarev.com/ghpvc/?username=anupchauhanak6&color=a855f7&style=flat-square&label=Total+Views)
+
+</div>
