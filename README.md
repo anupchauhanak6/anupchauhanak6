@@ -41,21 +41,6 @@
 
 <br>
 
-## 👨‍💻 About Me
-
-Hi there! I'm **Anup Chauhan**, a passionate **Full Stack Developer** from New Delhi, India 🇮🇳
-
-- 🎓 Currently pursuing **BCA** at Delhi University
-- 💻 Love building **amazing web experiences** with modern technologies
-- 🚀 Specializing in **React, Node.js, MongoDB, and JavaScript**
-- 🌱 Currently learning **Next.js, TypeScript, and Docker**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, Node.js, Web Development**
-- ⚡ Fun fact: **I turn coffee into code!** ☕💻
-
-<br>
-
-
 ## 📊 GitHub Stats
 
 <div align="center">
