@@ -82,15 +82,6 @@
 
 <br>
 
-## 🌟 Fun Facts
-
-- ✨ I love exploring new technologies and turning ideas into reality
-- 🎯 Always up for a coding challenge
-- 🌱 Continuous learner and problem solver
-- 💡 Let's build something amazing together!
-
-<br>
-
 ---
 
 <div align="center">
