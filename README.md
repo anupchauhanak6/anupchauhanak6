@@ -69,7 +69,7 @@
 
 </p>
 
-- 🌐 Portfolio: Coming Soon...
+- 🌐 Portfolio: https://anupchauhan.me/
 
 <br>
 
