@@ -44,10 +44,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anupchauhanak6&show_icons=true&theme=radical&bg_color=0d1117&title_color=a855f7&text_color=ffffff&icon_color=ec4899&border_color=a855f7&hide_border=false" alt="GitHub Stats"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupchauhanak6&layout=compact&theme=radical&bg_color=0d1117&title_color=a855f7&text_color=ffffff&border_color=ec4899&hide_border=false" alt="Top Languages"/>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anupchauhanak6&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=anupchauhanak6&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=ff6b6b&currStreakLabel=6C63FF" />
+</p>
 
 </div>
 
