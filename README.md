@@ -29,7 +29,7 @@
   <a href="mailto:anupchauhanak6@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-3B82F6?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/anupchauhanak6" target="_blank">
+  <a href="https://anupchauhan.me/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-10B981?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
