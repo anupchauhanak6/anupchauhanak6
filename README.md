@@ -77,7 +77,7 @@
 
 </p>
 
-- 🌐 Portfolio: https://anupchauhan.me/
+- 🌐 Portfolio:
 
 <br>
 
