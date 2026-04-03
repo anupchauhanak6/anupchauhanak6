@@ -41,6 +41,7 @@
 
 <br>
 
+<!-- Tech Stack -->
 ## ⚡ Tech Stack
 
 <div align="center">
@@ -49,18 +50,21 @@
 
 <br>
 
+<!-- Git Stats -->
 ## 📊 GitHub Stats
 
 <div align="center">
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anupchauhanak6&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=anupchauhanak6&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=ff6b6b&currStreakLabel=6C63FF" />
-</p>
+
+  <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anupchauhanak6&theme=radical">
+  <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anupchauhanak6&theme=radical">
+  <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anupchauhanak6&theme=radical&utcOffset=8">
+  <img height="166em" src="https://github-readme-streak-stats.herokuapp.com/?user=anupchauhanak6&theme=radical">
 
 </div>
 
 <br>
 
+<!-- Contribution Graph -->
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -71,6 +75,7 @@
 
 <br>
 
+<!-- Get in Touch -->
 ## 📬 Get in Touch    
 
 - <p align="left"> <a href="https://www.linkedin.com/in/anup-chauhan-22b8132bb/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>   <a href="https://www.x.com/anup_chauhan_ak" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a>
@@ -82,6 +87,7 @@
 
 <br>
 
+<!-- Quotes -->
 ## 🌠 Quote I Live By
 
 <p align="center">
